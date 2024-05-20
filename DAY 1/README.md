@@ -30,5 +30,9 @@
         <td> Meat </td>
         <td> Niku </td>
     </tr>
+    <tr>
+        <td> Awesome </td>
+        <td> Sugee </td>
+    </tr>
     
 </table>
