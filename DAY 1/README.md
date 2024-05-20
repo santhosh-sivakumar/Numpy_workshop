@@ -15,6 +15,10 @@
         <th> Japaneese </th>
     </tr>
     <tr>
+        <td> Thank You </td>
+        <td> Arigato </td>
+    </tr>
+    <tr>
         <td> Hello </td>
         <td> Konnichiwaa </td>
     </tr>
@@ -26,4 +30,5 @@
         <td> Meat </td>
         <td> Niku </td>
     </tr>
+    
 </table>
