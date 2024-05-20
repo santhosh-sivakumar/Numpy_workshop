@@ -17,4 +17,8 @@
         <td> Food </td>
         <td> Meishi </td>
     </tr>
+    <tr>
+        <td> Meat </td>
+        <td> Niku </td>
+    </tr>
 </table>
