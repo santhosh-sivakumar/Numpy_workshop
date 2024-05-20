@@ -3,7 +3,7 @@
 ### h3
 
 <div style="color: blue; font-size: xx-large; font-weight: bold;"> Hisashiburidana Mugiwara ! </div>
-<br>
+<br><br>
 <table>
     <tr>
         <th> Original </th>
